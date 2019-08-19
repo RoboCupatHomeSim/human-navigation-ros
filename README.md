@@ -1,6 +1,6 @@
 # ROS Package for Human Navigation
 
-This project is ROS package for the Human Navigation task of the Partner Robot Challenge (Virtual Space) in the World Robot Competition.
+This project is ROS package for the Human Navigation task of the RoboCup@Home Simulation.
 
 ## Prerequisites
 
@@ -23,7 +23,7 @@ https://github.com/SIGVerse/ros_package/tree/master/sigverse_ros_bridge
 
 ```bash:
 $ cd ~/catkin_ws/src
-$ git clone https://github.com/PartnerRobotChallengeVirtual/human-navigation-ros.git
+$ git clone https://github.com/RoboCupatHomeSim/human-navigation-ros.git
 $ cd ..
 $ catkin_make
 ```
