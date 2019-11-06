@@ -19,7 +19,7 @@ http://wiki.ros.org/rosbridge_suite
 Please see below.  
 https://github.com/SIGVerse/ros_package/tree/master/sigverse_ros_bridge
 
-### Install ROS Package of Interactive Cleanup
+### Install ROS Package of Human Navigation
 
 ```bash:
 $ cd ~/catkin_ws/src
