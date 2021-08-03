@@ -4,8 +4,8 @@ This project is ROS package for the Human Navigation task of the RoboCup@Home Si
 
 ## Prerequisites
 
-- OS: Ubuntu 16.04
-- ROS distribution: Kinetic Kame
+- OS: Ubuntu 18.04
+- ROS distribution: Melodic Morenia
 
 ## How to Install
 
